@@ -28,7 +28,7 @@ const tabs = (headerSelector, tabSelector, contentSelector, activeClass) => {
                     }
                 })
             }
-        })
+        });
 }
 
 export default tabs;
